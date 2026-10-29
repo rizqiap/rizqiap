@@ -14,6 +14,8 @@
 
 <h2 align="center">🚀 About Me</h2>
 
+<img align="right" src="./assets/astronaut.png" width="220" alt="Monochrome pixel art astronaut" />
+
 I'm **rizqiap**, a fresh graduate with an interest in backend development and how things work behind the scenes.
 
 I've worked with **PHP, Laravel, and Docker**, and I'm currently deepening my understanding of **Go** — from the language fundamentals to building HTTP services.
@@ -21,6 +23,8 @@ I've worked with **PHP, Laravel, and Docker**, and I'm currently deepening my un
 Along the way, I'm strengthening my **data structures, algorithms, and problem-solving skills**, while exploring how to organize backend code so it's easier to understand and maintain.
 
 My goal is to grow into a backend developer who builds reliable software and understands the decisions behind it.
+
+<br clear="both" />
 
 <br />
 
